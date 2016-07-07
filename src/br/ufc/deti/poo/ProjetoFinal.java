@@ -5,23 +5,19 @@ import java.awt.FlowLayout;
 
 import javax.swing.JFrame;
 import javax.swing.JButton;
-import java.awt.BorderLayout;
 import java.awt.Color;
 
 import javax.swing.JTextField;
 import java.awt.event.ActionListener;
-import java.awt.event.WindowEvent;
-import java.util.Date;
 import java.awt.event.ActionEvent;
 
-import javax.print.attribute.standard.DateTimeAtCompleted;
 import javax.swing.GroupLayout;
 import javax.swing.GroupLayout.Alignment;
 import javax.swing.LayoutStyle.ComponentPlacement;
 
 import javax.swing.JLabel;
 import javax.swing.JPanel;
-import javax.swing.SwingConstants;
+
 
 public class ProjetoFinal {
 
